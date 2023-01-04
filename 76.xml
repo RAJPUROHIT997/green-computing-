@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE address[
+<!ELEMENT address (name,company,phone)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT company (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+]>
+
+<address>
+<name>Gaurav Parmar</name>
+<company>google</company>
+<phone>(091) 123-890</phone>
+</address>
